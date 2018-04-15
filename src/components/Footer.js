@@ -1,7 +1,7 @@
 import React from 'react';
 import '../style/footer.css';
 
-function Footer(props) {
+const Footer = props => {
   return (
     <footer>
       <div className="text-center small copyright">
