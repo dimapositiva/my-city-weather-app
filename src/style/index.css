@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab');
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #aeb3ff;
+  background-image: url(../img/logo.jpg);
+  font-family: 'Roboto Slab', serif;
+}
+
+.weather-app {
+  width: 70%;
+  margin: auto;
+  background-color: #66b3ff;
+  color: #fff;
+}
+
+h1 {
+  width: 400px;
+  height: 60px;
+  padding-top: 20px;
+  margin-left: 39%;
+  color: #fff;
+  background-color: #66b3ff;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Roboto';
+}
