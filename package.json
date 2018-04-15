@@ -1,6 +1,7 @@
 {
   "name": "my-city-weather-app",
   "version": "0.0.1",
+  "license": "MIT",
   "description": "Simple SPA with React and http://openweathermap.org/ API",
   "author": "Dmytro Soloviov",
   "dependencies": {
