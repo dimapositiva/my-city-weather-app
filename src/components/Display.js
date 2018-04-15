@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Display = (props) =>
-  <div className="outputDisplay">
+  <div className="output-display">
     <br/>
     <p className="temp-wrapper">Temperature:
       <span className="temp">{ props.tempOutput }</span>
