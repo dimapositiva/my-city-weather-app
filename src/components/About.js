@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () =>
   <div>
-    <h1 className="text-center page-title">
+    <h1 className="about-title">
       About
     </h1>
   </div>
